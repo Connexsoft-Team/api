@@ -10,7 +10,12 @@
     "role" : "UI/UX Designer",
     "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694886508/ari-fotor-2023091704716_fu1pkt.png",
     "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
-
+  },
+  {
+    "member_name" : "Abraham Gregorius",
+    "role" : "Back End Developer",
+    "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694887671/coco_jtevn8.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
   }
   
 
