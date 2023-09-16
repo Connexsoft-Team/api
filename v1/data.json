@@ -4,6 +4,13 @@
     "role" : "Developer",
     "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694885690/hero-fotor-2023091703354_qjpasp.png",
     "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Ari Firmansyah",
+    "role" : "UI/UX Designer",
+    "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694886508/ari-fotor-2023091704716_fu1pkt.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+
   }
   
 
