@@ -16,6 +16,198 @@
     "role" : "Back End Developer",
     "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694887671/coco_jtevn8.png",
     "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Anissa Maulidya",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694890325/IMG_20230816_075703_525-fotor-2023091715111_mdx2hl.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Ardiyan Syahbani",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694890465/ardiriyan_277217528_524876039040022_2211409787118615791_n-fotor-2023091715354_zms0kv.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Charlie Cruz Adrian",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694890701/273453276_2114725538690874_1260238801680128707_n-fotor-202309171585_gljope.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Fadhlurahman Septio",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694890891/IMG_20230816_075656_601-fotor-20230917216_tl3tbq.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Fadiyah Irbati",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694890967/hero-fotor-202309172214_txqyjq.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  }
+  ,  {
+    "member_name" : "Faris Maulana Al-Bai",
+    "role" : "FullStack IT Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891070/WhatsApp_Image_2023-08-11_at_4.27.00_AM-fotor-202309172411_qxliky.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  }
+  ,  {
+    "member_name" : "Ferdi Susanto",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891225/IMG_20230816_075656_601-fotor-202309172629_tpvfdm.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Kamila Nurul R",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891302/IMG_20230816_075656_601-fotor-20230917280_wwtarj.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Kandar Prasetyawan",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891377/hero-fotor-202309172913_oetvgc.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Maulana Hafizh",
+    "role" : "Developer & Linux Enthusiast",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891557/310873172_621506506106206_9016214669346871402_n-fotor-2023091721213_sopxks.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Maulana Sentana",
+    "role" : "Developer",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694891979/hero-fotor-2023091721927_l50prt.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Farid Irawan",
+    "role" : "Developer & Bartender",
+    "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694892124/IMG_20230713_151223_1_-fotor-202309172217_w9ikaq.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Fauzan Syari",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Ikhsan Adriansyah",
+    "role" : "Back End Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Ramdani",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Raya Arizky",
+    "role" : "Mobile App Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "M Thomy Hasyimi",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Nadiyah Atikah",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Naila Mazaya Fitriana",
+    "role" : "Back End Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Natanael Albert",
+    "role" : "Developer & Hardware Enthusiast",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Nila Krisnawati",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Rafael Lorenzo",
+    "role" : "Front End Developer & UI/UX",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Raihan",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Reifatih Fithoneksa",
+    "role" : "Front End Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Shaki Ashari",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Sebastian Vincent",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Shendy Ariel Riano",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Sukma Azzahra A",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Syahnas Dwi Agustina",
+    "role" : "UI/UX & Product Manager",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Syaiful Nazar",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Syarif M Isa Banahsan",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
+  },
+  {
+    "member_name" : "Zahrah Syifa Zain",
+    "role" : "Developer",
+    "member_picture" :  "",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
   }
   
 
