@@ -1,17 +1,10 @@
 [
   {
-    "member_name" : "Rafael Lorenzo",
-    "role" : "Front-End Developer",
-    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
-  },
-    {
-    "member_name" : "Faris Maulana",
-    "role" : "Full IT Departement Developer",
-    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
-  },
-    {
-    "member_name" : "Abraham Gregorius",
-    "role" : "Back End Developer",
-    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
+    "member_name" : "Achmad Husein",
+    "role" : "Developer",
+    "member_picture" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694885690/hero-fotor-2023091703354_qjpasp.png",
+    "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" 
   }
+  
+
 ]
