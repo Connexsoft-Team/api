@@ -1,0 +1,17 @@
+[
+  {
+    "member_name" : "Rafael Lorenzo",
+    "role" : "Front-End Developer",
+    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
+  },
+    {
+    "member_name" : "Faris Maulana",
+    "role" : "Full IT Departement Developer",
+    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
+  },
+    {
+    "member_name" : "Abraham Gregorius",
+    "role" : "Back End Developer",
+    "member_picture" : "https://console.cloudinary.com/console/c-dd7297ea24aff"
+  }
+]

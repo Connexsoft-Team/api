@@ -5,8 +5,75 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        * {
+          font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+          color: white;
+          margin: 0;
+          padding: 0;
+        }
+
+        body {
+          background-color: #444653;
+        }
+
+        .container {
+           display: flex;
+           margin-top: 60px;
+           justify-content: center;
+        }
+
+        .wrappers {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .get {
+      display: flex;
+      gap : 20px;
+      padding: 10px;
+      align-items: center;
+      background-color: white;
+      border-radius: 5px;
+      margin: 10px;
+    }
+
+    .get-method {
+        background-color: green;
+        padding: 5px 10px;
+        font-weight: bold;
+        border-radius: 5px;
+    }
+
+    .api-docs {
+       margin-top: 20px;
+    }
+
+    </style>
 </head>
 <body>
-    <h1>Hello There!</h1>
+    <div class="container">
+        <div class="wrappers">
+            <img style="height: 80px;" src="https://res.cloudinary.com/dewnyzbmg/image/upload/v1694876740/connexsoftlogomobile_opcji4.png" alt="test">
+            <h1 style="text-align: center; color: white;">Hello There!</h1>
+            <p>This Is Connexsoft API System You Can Using to Get Data from Connexsoft</p>
+            <div class="get-started" style="margin-top: 20px;">
+                <h3>Get Started</h3>
+                <div class="api-docs">
+                    <div class="get">
+                        <p class="get-method">GET</p>
+                        <p style="color: black;">https://connexsoft-team.github.io/api/Data/data.json</p>
+                    </div>
+                    <div class="response" style="margin: 20px 0px">
+                        <h3 style="margin: 20px 0px">Response : </h3>
+                        <script src="https://gist.github.com/ikhsanadrians/278296d149820b515e01e405fa3ef482.js"></script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
