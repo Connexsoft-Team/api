@@ -4,6 +4,7 @@
         "thumbnail" : "https://code.visualstudio.com/assets/docs/nodejs/nodejs/debugsession.png",
         "author" : "Ikhsan Adriansyah",
         "author_img" : "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694922691/adriansmilano-fotor-2023091710519_hlspkf.png",
+        "post_date" : "09/12/2023",
         "description" : [
               {
                 "section" : "When it comes to building the backend of web applications, developers have a myriad of choices at their disposal. One technology that has gained significant popularity in recent years is Node.js. Known for its versatility and performance, Node.js has become a compelling option for backend development. In this article, we'll explore the reasons why Node.js is often favored for the server-side of web applications."
