@@ -69,6 +69,18 @@
     .footer {
        margin: 10px;
     }
+
+    button {
+      background-color: #1a8cc2;
+      border-radius: 5px;
+      padding: 5px 10px;
+      outline: none;
+      border: none;
+    }
+
+    .res-list {
+      margin-bottom: 10px;
+    }
     
 
     </style>
@@ -96,14 +108,35 @@
                               </svg>
                         </div>
                    </div>
-                    <div class="response" style="margin: 20px 0px">
-                        <h3 style="margin: 20px 0px">Response : </h3>
-                        <script src="https://gist.github.com/ikhsanadrians/278296d149820b515e01e405fa3ef482.js"></script>
+                   <div class="get">
+                    <p class="get-method">GET</p>
+                    <input disabled class="api-endpointgallery" style="color: black; width: 100%; padding: 10px; font-size: 15px; border: none; background-color: transparent;" value="https://connexsoft-team.github.io/api/v1/gallery.json">
+                    <div class="copy-gallery" style="margin-top: 8px;">
+                        <svg id="copyicongallery" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentfill" class="bi bi-clipboard" viewBox="0 0 16 16">
+                            <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1v-1z"/>
+                            <path d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3z"/>
+                          </svg>
+                          <svg class="hidden" id="copiedicongallery" xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentfill" class="bi bi-clipboard-check-fill" viewBox="0 0 16 16">
+                            <path d="M6.5 0A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0h-3Zm3 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5h3Z"/>
+                            <path d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1A2.5 2.5 0 0 1 9.5 5h-3A2.5 2.5 0 0 1 4 2.5v-1Zm6.854 7.354-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L7.5 10.793l2.646-2.647a.5.5 0 0 1 .708.708Z"/>
+                          </svg>
                     </div>
+               </div>
+                    <div class="response" style="margin: 20px 0px">
+                        
+                        <h3 style="margin: 20px 0px">Response : </h3>
+                        <div class="res-list">
+                          <button>Data</button>
+                          <button>Gallery</button>
+                      </div>
+                        <script src="https://gist.github.com/ikhsanadrians/278296d149820b515e01e405fa3ef482.js"></script>
+                        <script hidden src="https://gist.github.com/ikhsanadrians/0c1fe4e60c110068bbe6fe525f63ef26.js"></script>
+                      </div>
                 </div>
             </div>
         </div>
     </div>
+    <script src="./app.js"></script>
     <script>
         const copyBtn = document.querySelector('.copy')
         const apiEndPoint = document.querySelector('.api-endpoint')
@@ -116,6 +149,19 @@
             navigator.clipboard.writeText(apiEndPoint.value)
             copyIcon.classList.add('hidden')
             copiedIcon.classList.remove('hidden')
+        })
+
+        const copyBtnGallery = document.querySelector('.copy-gallery')
+        const apiEndPointGallery = document.querySelector('.api-endpointgallery')
+        const copyIconGallery = document.querySelector('#copyicongallery')
+        const copiedIconGallery = document.querySelector('#copiedicongallery')
+
+        copyBtnGallery.addEventListener('click',()=>{
+            apiEndPointGallery.select()
+            apiEndPointGallery.setSelectionRange(0,9999)
+            navigator.clipboard.writeText(apiEndPointGallery.value)
+            copyIconGallery.classList.add('hidden')
+            copiedIconGallery.classList.remove('hidden')
         })
     </script>
     <p class="footer">Made With ❤️ By <span style="font-weight: bold;">Connexsoft Team</span></p>
