@@ -9,7 +9,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -22,7 +26,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -35,7 +43,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -48,7 +60,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -61,7 +77,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -74,7 +94,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -87,7 +111,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -100,7 +128,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
 
     }
     ,  {
@@ -113,7 +145,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
 
     }
     ,  {
@@ -126,7 +162,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -139,7 +179,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -152,7 +196,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -165,7 +213,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -178,7 +230,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -191,7 +247,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -204,7 +264,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -217,7 +281,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://quora-clone-two.vercel.app/",
+        "github" : "https://github.com/ikhsanadrians/QuoraClone"
+
+      } 
     }
     ,
     {
@@ -230,7 +298,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -243,7 +315,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -256,7 +332,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -269,7 +349,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -282,7 +366,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -295,7 +383,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -308,7 +400,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -321,7 +417,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -334,7 +434,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -347,7 +451,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -360,7 +468,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -373,7 +485,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -386,7 +502,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -399,7 +519,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -412,7 +536,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -425,7 +553,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -438,7 +570,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
     }
     ,
     {
@@ -451,7 +587,11 @@
       "project_techstack" : [
         "Laravel","React","TailwindCss"
       ],
-      "project_link" : "https://facebook.com"
+      "project_link" : {
+        "url" : "https://facebook.com",
+        "github" : "https://github.com"
+
+      } 
 
     }
     
