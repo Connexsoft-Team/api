@@ -276,10 +276,10 @@
       "role" : "Back End Developer",
       "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694922691/adriansmilano-fotor-2023091710519_hlspkf.png",
       "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" ,
-      "project_name" : "Project Iseng ajah",
-      "project_description" : "Lorem Ipsum Dolor Siamet menggokil aowkowakoawokawo",
+      "project_name" : "Quora Clone",
+      "project_description" : "Quora Clone with 98% Identics",
       "project_techstack" : [
-        "Laravel","React","TailwindCss"
+        "React","TailwindCss"
       ],
       "project_link" : {
         "url" : "https://quora-clone-two.vercel.app/",
@@ -306,18 +306,18 @@
     }
     ,
     {
-      "member_name" : "M Raya Arizky",
+      "member_name" : "M Raya Ar Rizki",
       "role" : "Mobile App Developer",
       "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694922878/DSCF0963-fotor-20230917105424_ex6fpl.png",
       "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" ,
-      "project_name" : "Project Iseng ajah",
-      "project_description" : "Lorem Ipsum Dolor Siamet menggokil aowkowakoawokawo",
+      "project_name" : "TestKoran",
+      "project_description" : "Psychology Test For Employee Recruitement",
       "project_techstack" : [
-        "Laravel","React","TailwindCss"
+        "NextJS","MonggoDB","TailwindCss", "Clerk", "TypeScript"
       ],
       "project_link" : {
-        "url" : "https://facebook.com",
-        "github" : "https://github.com"
+        "url" : "https://kraepelinpauli.vercel.app",
+        "github" : "https://github.com/Raya46/kraepelinpauli"
 
       } 
     }
@@ -412,14 +412,14 @@
       "role" : "Front End Developer & UI/UX",
       "member_picture" :  "https://res.cloudinary.com/dewnyzbmg/image/upload/v1694924519/IMG_20230713_151213-fotor-20230917112143_i6v8nw.png",
       "quotes" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, veritatis!" ,
-      "project_name" : "Project Iseng ajah",
-      "project_description" : "Lorem Ipsum Dolor Siamet menggokil aowkowakoawokawo",
+      "project_name" : "OpenSea Clone",
+      "project_description" : "OpenSea Clone with 99% Identic",
       "project_techstack" : [
-        "Laravel","React","TailwindCss"
+        "TailwindCSS","React"
       ],
       "project_link" : {
-        "url" : "https://facebook.com",
-        "github" : "https://github.com"
+        "url" : "https://el-clone-opensea.vercel.app/",
+        "github" : "https://github.com/rafaelrnzo/Opensea-Clone"
 
       } 
     }
